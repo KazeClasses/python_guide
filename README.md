@@ -1,2 +1,8 @@
 # Python
-Class for introduction to python, including best practices and a guide to packaging
+
+## Installation
+```bash
+sudo apt-get install python3
+```
+
+## Steps 1.
